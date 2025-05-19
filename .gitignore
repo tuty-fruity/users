@@ -247,4 +247,4 @@ $RECYCLE.BIN/
 *__pycache__*
 *.aws-sam*
 *.venv*
-samconfig.toml
+#samconfig.toml
